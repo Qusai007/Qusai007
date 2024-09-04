@@ -95,6 +95,6 @@ Feel free to explore my repositories and connect with me to build something amaz
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Qusai007/Qusai007/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Qusai007/Qusai007/output/snake.yml" alt="Snake animation" />
 
 ###
