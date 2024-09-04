@@ -92,9 +92,3 @@ Feel free to explore my repositories and connect with me to build something amaz
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Qusai007/Qusai007/workflows/snake.yml" alt="Snake animation" />
-
-###
