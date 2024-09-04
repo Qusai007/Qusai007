@@ -93,8 +93,8 @@ Feel free to explore my repositories and connect with me to build something amaz
 
 ###
 
-<br clear="both">
+### Snake Eating Contributions
 
-<img src="https://raw.githubusercontent.com/Qusai007/Qusai007/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Qusai007/Qusai007/output/snake.svg)
 
 ###
