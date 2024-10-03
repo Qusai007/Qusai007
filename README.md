@@ -1,35 +1,39 @@
+
+---
+
 # 👋 Hi, I'm Qusai Johar!
 
-### 🌍 Web Developer | 📱 Android Developer | 🇮🇳 from India, currently in 🇨🇦 Canada
+### 🌍 Web Developer | 📱 Android Developer | Currently in 🇨🇦 Canada
 
-I'm a passionate developer with expertise in building responsive and dynamic web applications, as well as crafting intuitive and user-friendly Android apps. With a focus on creating seamless user experiences and clean, efficient code, I love turning ideas into reality with technology.
+I'm a passionate developer specializing in web and mobile development, aiming to create seamless user experiences and efficient, high-quality code. My experience includes building scalable, responsive applications for both web and mobile platforms. I love exploring new technologies and collaborating on innovative projects that turn ideas into reality.
 
-### 🔧 Technologies & Tools:
-- Frontend: HTML5, CSS3, JavaScript, React
-- Backend: Node.js, Express, MongoDB
-- Mobile Development: Java, Kotlin, Android Studio
-- Version Control: Git & GitHub
+### 🛠️ Technologies & Tools
 
-### 🚀 What I'm up to:
-- Improving my skills in full-stack development
-- Exploring new frameworks and tools
-- Collaborating on exciting open-source projects
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, GSAP, Three.js
+- **Backend**: Node.js, Express, MongoDB
+- **Mobile Development**: Java, Kotlin, Android Studio, React Native, Expo
+- **Cloud Platforms**: IBM Cloud, AWS, Azure
+- **Databases**: SQL, MySQL, MongoDB, PostgreSQL
+- **Version Control**: Git & GitHub
+- **DevSecOps**: Docker, Jenkins, CI/CD Pipelines
+- **UI/UX Design**: IBM Design Thinking, Figma, Responsive Design
+- **AI & Data Engineering**: TensorFlow, Scikit-learn, Hadoop, Spark
 
-Feel free to explore my repositories and connect with me to build something amazing together! Let's bring ideas to life with code.
+### 🚀 Currently Working On
 
-###
+- Improving my skills in **full-stack development**.
+- Exploring **new frameworks and tools** in web and mobile technologies.
+- Contributing to **open-source projects** and expanding my knowledge of **DevOps** practices.
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qusai007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Qusai007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qusai007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qusai007&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Qusai007&theme=radical" height="150" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qusai007&layout=compact&theme=radical" height="150" alt="Top languages" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
+### 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -77,18 +81,18 @@ Feel free to explore my repositories and connect with me to build something amaz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
+### 🌟 Connect with Me
 
 <div align="left">
   <a href="https://www.instagram.com/official_qusai_johar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:qusaijohar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/qusai-johar-806788229/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
-###
+---
