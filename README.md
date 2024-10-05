@@ -81,6 +81,17 @@ I'm a passionate developer specializing in web and mobile development, aiming to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+### 🌟 Featured Projects
+
+- [A Zoom Clone](https://your-zoom-clone-project-link.com)
+- [An AI SaaS Platform](https://your-ai-saas-project-link.com)
+- [Music Player (native)](https://your-music-player-project-link.com)
+- [iPhone 15 Website Clone](https://your-iphone-15-clone-project-link.com)
+
+### 🌟 Portfolio
+
+Check out my portfolio at [qusai-johar-dev.vercel.app](https://qusai-johar-dev.vercel.app/).
+
 ### 🌟 Connect with Me
 
 <div align="left">
